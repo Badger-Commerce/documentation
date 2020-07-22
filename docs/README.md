@@ -5,11 +5,11 @@ tagline: All the information you need to get your Badger Commerce site up and ru
 actionText: Quick Start →
 actionLink: /guide/
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by Badger Commerce with ❤️
+- title: Badger Commerce Engine
+  details: The core technology underpinning the Badger Commerce stack, the Commerce Engine provides a flexible and extensible commerce engine as a microservice.
+- title: Badger Site Builder
+  details: A ready-to-use ecommerce site built on top of the Badger Commerce Engine, providing CMS, Page Design and Building, along with a flexible extension framework to implement custom UI components.
+- title: Badger Commerce POS
+  details: A fully-featured point of sale web-based Point Of Sale application, built using the Badger Commerce Engine
+footer: Made by Badger Commerce Limited with ❤️ and 🍺
 ---
