@@ -1,4 +1,4 @@
-# High Level Componets of Badger Commerce
+# High Level Components of Badger Commerce
 ## Introduction
 The key concepts of badger are:
  * Bob
