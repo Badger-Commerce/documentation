@@ -59,11 +59,17 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'using-vue',
             'HighLevelComponents'
           ]
         }
       ],
+      '/config/': [{
+        title: 'Config',
+        collapsable: false,
+        children: [
+            ''
+        ]
+      }]
     }
   },
 
