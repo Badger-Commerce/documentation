@@ -1,5 +1,9 @@
 ---
 sidebar: auto
+tags:
+ - configuration
+ - properties
+ - attributes
 ---
 
 # Admin Config

@@ -29,6 +29,8 @@ module.exports = {
    */
   themeConfig: {
     repo: '',
+    smoothScroll: true,
+    logo: 'https://dk2d5r16turaw.cloudfront.net/default/1529510843369badger_sq_50.png',
     docsRepo: 'Badger-Commerce/documentation',
     // if your docs are not at the root of the repo:
     docsDir: 'docs',
@@ -62,14 +64,7 @@ module.exports = {
             'HighLevelComponents'
           ]
         }
-      ],
-      '/config/': [{
-        title: 'Config',
-        collapsable: false,
-        children: [
-            ''
-        ]
-      }]
+      ]
     }
   },
 
